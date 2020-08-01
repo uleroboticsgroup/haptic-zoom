@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/CubesScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/MenuScene.unity
+    guid: d80eb915b5f8ed4418e9162c002a5eb5
+  - enabled: 1
+    path: Assets/Scenes/PathScene.unity
+    guid: df2e7afe0a80ee24f848670a41ed4382
+  - enabled: 0
+    path: Assets/Scenes/TestScene.unity
+    guid: 3565ab1c7e1a5fe4ab99d5f66171b2ad
+  - enabled: 0
+    path: Assets/Scenes/HolesScene.unity
+    guid: 285d97f4cb785b7408b36e2c758a55ec
+  - enabled: 0
+    path: Assets/Scenes/PegTransferScene.unity
+    guid: e24c568d786a436408f4457306011c91
+  m_configObjects: {}
